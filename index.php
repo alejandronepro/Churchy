@@ -12,7 +12,8 @@
 </head>
 <body>
     <h1>Hello World!</h1>
-    <p>Whats up...</p>
+    <p>Whats up... Bao!</p>
+    <p>Okay then..</p>
 
     <script src="../Churchy/bootstrap/js/bootstrap.js"></script>
 </body>
